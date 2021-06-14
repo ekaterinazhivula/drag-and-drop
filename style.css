@@ -1,0 +1,9 @@
+#field {
+    margin: 0 auto;
+    background-color: rgb(88, 214, 115);
+    width: 800px;
+    height: 600px;
+    padding: 1em;
+    border: 1px #CCC;
+    border-radius: 1em;
+  }
